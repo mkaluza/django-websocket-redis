@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import json
 import six
 import warnings
 from ws4redis import settings
